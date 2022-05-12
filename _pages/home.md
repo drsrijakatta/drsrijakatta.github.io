@@ -16,7 +16,7 @@ excerpt:
   <a href="resume/">More about me  </a>
   </small>
 feature_row:
-  - image_path:https://github.com/ayeportfoliorx/ayeportfoliorx.github.io/blob/master/assets/images/background_for_%20pharmd_%20ayeportfolio.jpg
+  - image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sphere_wireframe_10deg_4r.svg/240px-Sphere_wireframe_10deg_4r.svg.png
     alt: "Models"
     title: "Models"
     excerpt: "Graphics models portfolio <br><br><br>"
@@ -44,4 +44,3 @@ feature_row:
 
 
 {% include feature_row %}
-
