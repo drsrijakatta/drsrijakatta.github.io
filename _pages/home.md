@@ -5,7 +5,7 @@ hidden: true
 title: Student Name
 header:
   overlay_color: "#4d2e00"
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/British_Museum_Reading_Room%2C_reading_desk_F1.jpg/640px-British_Museum_Reading_Room%2C_reading_desk_F1.jpg
+  image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/British_Museum_Reading_Room%2C_reading_desk_F1.jpg/640px-British_Museum_Reading_Room%2C_reading_desk_F1.jpg
   actions:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join Project VIKRAM : Change the world"
       url: "https://projectvikram.github.io/join-us//"
