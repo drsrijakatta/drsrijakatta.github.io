@@ -5,7 +5,7 @@ hidden: true
 title: Student Name
 header:
   overlay_color: "#4d2e00"
-  overlay_image: assets/images/background_for_ pharmd_ ayeportfolio.jpg
+  overlay_image: assets/images/cp_banner_v1.0.png
   actions:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join Project VIKRAM : Change the world"
       url: "https://projectvikram.github.io/join-us//"
