@@ -15,7 +15,7 @@
 # in the sites via {{ site.myvariable }}.
 # last update @srija-ieee
 
-title: Student Name ™ 
+title: Dr Srija Katta 
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Professional portfolio
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Student Name"
-  avatar : "https://ayeai.xyz/site/wp-content/uploads/2019/08/ayeai-vision.jpg"
-  bio    : "Academic Course and Year"
+  name   : "Dr Srija Katta "
+  avatar : "https://projectvikram.github.io/restricted_assets/images/dr_srija.jpg"
+  bio    : "Professional Portfolio"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
