@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the sites via {{ site.myvariable }}.
-title: Sahaja's™ 
+title: Dr Srija Katta™ 
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  This is  an Sahaja's™ portfolio site (for academic purposes)
+  This is Dr Srija Katta™ portfolio site (for academic purposes)
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dirt
@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Sahaja Katta"
+  name   : "Dr Srija Katta "
   avatar : "https://ayeai.xyz/site/wp-content/uploads/avatars/73/avatar-bpfull.jpg"
-  bio    : "BFA Animation - Final year. Bring art to life."
+  bio    : "Enterprenuer"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
